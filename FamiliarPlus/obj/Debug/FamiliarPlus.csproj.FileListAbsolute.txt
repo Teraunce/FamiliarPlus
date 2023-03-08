@@ -1,0 +1,2 @@
+E:\GitHub\FamiliarPlus\FamiliarPlus\obj\Debug\FamiliarPlus.csproj.AssemblyReference.cache
+E:\GitHub\FamiliarPlus\FamiliarPlus\obj\Debug\FamiliarPlus.csproj.CoreCompileInputs.cache
